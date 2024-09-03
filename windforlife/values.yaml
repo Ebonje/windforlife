@@ -21,8 +21,9 @@ app:
     create: true
     name: ""
   service:
-    type: ClusterIP
+    type: LoadBalncer
     port: 80
+    targetPort: 80
   ingress:
     enabled: false
     className: ""
