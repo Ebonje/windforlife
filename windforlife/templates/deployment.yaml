@@ -39,7 +39,7 @@ spec:
               protocol: TCP
           livenessProbe:
             httpGet:
-              path: /
+              path: /api/windforlife
               port: http
           readinessProbe:
             httpGet:
