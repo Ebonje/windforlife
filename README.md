@@ -1,6 +1,6 @@
 
 # Helm Chart Fixing Issues
-1. we'll need to fix any syntax or structural errors in the Helm chart. 
+1. we'll need to fix any syntax or structural errors in the Helm chart for the project. 
 
 This typically involves:
 
